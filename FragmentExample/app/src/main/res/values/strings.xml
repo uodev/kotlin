@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentOrnek</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="resim">resim</string>
+    <string name="nameString">Uygar Ceylan</string>
+    <string name="emailString">uygaroztcyln@gmail.com</string>
+    <string name="linkedinString">linkedin/uodev</string>
+    <string name="ageString">20</string>
+</resources>

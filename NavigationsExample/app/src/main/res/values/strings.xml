@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Navigations</string>
+    <string name="merhabalar">Merhabalar</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="backgroundImage">Background image</string>
+    <string name="nelerOgrendik">Neler Öğrendik?</string>
+    <string name="kotlinTemelleri">Kotlin Temelleri</string>
+    <string name="collections">Collections</string>
+    <string name="layouts">Layouts</string>
+    <string name="devamEtBTNString">DEVAM ET</string>
+    <string name="siradaString">Sırada</string>
+    <string name="navigationString">Navigation</string>
+    <string name="fragmentString">Fragment</string>
+    <string name="life_cycleString">Life Cycle</string>
+    <string name="bittiString">BİTTİ</string>
+    <string name="thirdbackgroundString">thirdBackground</string>
+</resources>
