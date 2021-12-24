@@ -2,6 +2,7 @@
 I'll be mobile app dev
 
 I bought a course on Udemy.
+
 Course : Atıl Samancıoğlu Android Mobil Uygulama Kursu: Kotlin & Java
 
 Day 01 - DONE
