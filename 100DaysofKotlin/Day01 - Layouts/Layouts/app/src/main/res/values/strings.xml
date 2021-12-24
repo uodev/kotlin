@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bahşiş Hesaplama</string>
+    <string name="hizmetBedeli">Hizmet Bedeli</string>
+    <string name="hizmetMemnuniyet">Hizmetten memnun kaldınız mı?</string>
+    <string name="mukemmelRadio">Mükemmel (%20)</string>
+    <string name="iyiRadio">İyi (%18)</string>
+    <string name="idareEderRadio">İdare Eder (%15)</string>
+    <string name="bahsisYuvarlansinMi">Bahşiş üst sayıya yuvarlansın mı?</string>
+    <string name="hesaplaButon">HESAPLA</string>
+    <string name="bahsisTutari">Bahşiş Tutarı: %s</string>
+
+
+</resources>
