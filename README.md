@@ -29,7 +29,8 @@ Day 07 - DONE
 Day 08 - DONE
 ->Catch The Kenny(Game Project)
 
-Day 09 - 
+Day 09 - Done
+->Kotlin OOP
 
 Day 10 - 
 
