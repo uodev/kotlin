@@ -23,9 +23,11 @@ Day 05 - DONE
 Day 06 - DONE
 ->Fragment
 
-Day 07 - 
+Day 07 - DONE
+->Counter and Runnables
 
-Day 08 - 
+Day 08 - DONE
+->Catch The Kenny(Game Project)
 
 Day 09 - 
 
